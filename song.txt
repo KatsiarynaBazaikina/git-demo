@@ -5,3 +5,4 @@ This is a second row
 
 And this is a row from git gui
 test- row
+zzzzz
