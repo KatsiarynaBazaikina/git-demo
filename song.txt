@@ -8,3 +8,10 @@ test- row
 add
 ____________
 ____________
+____________
+
+Changes in Feature branch
+2nd change in Feature
+3rd change in Feature
+Change in feature2
+
