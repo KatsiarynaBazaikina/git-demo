@@ -1,0 +1,10 @@
+This is a test file
+And this is a second row (that should be added by separate commit)
+This is a new row from git ui
+This is a second row
+
+And this is a row from git gui
+test- row
+add
+____________
+____________
